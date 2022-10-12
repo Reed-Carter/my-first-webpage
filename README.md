@@ -1,8 +1,8 @@
 # _My First Webpage_
 
-#### By _**{Reed, Luke, Phil}**_
+#### By _Reed, Luke, Phil_
 
-#### _{This is our first webpage}_
+#### _This is our first webpage_
 
 ## Technologies Used
 
@@ -24,7 +24,5 @@ _This is a webpage used for practice to develope webpages and the start of our j
 * _no known bugs _
 
 ## License
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 Copyright (c) _2022_ _Reed Carter, Luke Callahan, and Phil Kendall(s)_
